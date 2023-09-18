@@ -1,1 +1,1 @@
-This is sample instructions file.
+This is sample instructions file to guide users.
